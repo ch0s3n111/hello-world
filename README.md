@@ -1,2 +1,2 @@
 # hello-world
-Tämä on tutoriaali
+tämä on tutoriaalin mukaan tehty tietiovarasto
